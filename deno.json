@@ -8,6 +8,7 @@
     "@std/cli": "jsr:@std/cli@^1.0.10",
     "drizzle-kit": "npm:drizzle-kit@^0.30.1",
     "drizzle-orm": "npm:drizzle-orm@^0.38.3",
-    "effect": "npm:effect@^3.12.1"
+    "effect": "npm:effect@^3.12.1",
+    "jose": "npm:jose@^5.9.6"
   }
 }
